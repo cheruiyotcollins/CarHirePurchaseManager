@@ -1,0 +1,14 @@
+com\test\software\developer\test\model\LoanRepaymentModel.class
+com\test\software\developer\test\LoansMicroservice.class
+com\test\software\developer\test\service\LoanService.class
+com\test\software\developer\test\service\LoanRepaymentService.class
+com\test\software\developer\test\service\EmailService.class
+com\test\software\developer\test\controller\LoanController.class
+com\test\software\developer\test\controller\LoanRepaymentController.class
+com\test\software\developer\test\repository\LoanRepository.class
+com\test\software\developer\test\dto\ExistById.class
+com\test\software\developer\test\dto\SaveStatus.class
+com\test\software\developer\test\scheduler\ScheduledTask.class
+com\test\software\developer\test\repository\LoanRepaymentRepository.class
+com\test\software\developer\test\dto\StringDto.class
+com\test\software\developer\test\model\LoanModel.class
